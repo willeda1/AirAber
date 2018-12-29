@@ -9,3 +9,5 @@ a template watch UI target (toolkit) from File > New > Target which is not the s
 
 Was about setting up table cells (said to be simplier than elsewhere in iOS) and linking everything together. There are no delegates apparently. Nice trick for linking the UI to the classes: if you right click on the tree in the document view it gives you a selection of labels you can drag across. Their design also has a set label handler which makes good sense.
 
+_For some reason, cannot get the global tint to work_
+
