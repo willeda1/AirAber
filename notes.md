@@ -1,4 +1,6 @@
 # notes from tutorial 
+https://www.raywenderlich.com/287-watchos-4-tutorial-part-1-getting-started
+
 ## part 1
 
 Most of this was how to set up the storyboard. Use groups _which_ seem to be like a toned down version to stack views. Then added
